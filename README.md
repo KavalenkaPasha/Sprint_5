@@ -1,5 +1,5 @@
-# Sprint_5
 
+# Sprint_5
 Автотесты для сервиса Stellar Burgers.
 
 ## Стек
@@ -11,3 +11,4 @@
 ```bash
 pytest -v
 ```
+
